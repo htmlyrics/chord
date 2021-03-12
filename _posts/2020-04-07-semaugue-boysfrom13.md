@@ -6,13 +6,13 @@ title: Semau Gue - Boys From 13
 
 <div class="htl">Chord</div><br />
 
-Db  Gb  Bbm  Ab  Gb  Ab<br />
+Db &nbsp; Gb &nbsp; Bbm &nbsp; Ab &nbsp; Gb &nbsp; Ab<br />
 
-Db             Gb                                  Bbm<br />
+Db &nbsp; &nbsp; &nbsp; &nbsp; Gb &nbsp; &nbsp; &nbsp; &nbsp; Bbm<br />
 ...sepatu yang mengantarku melangkah<br />
-                      Ab                      Db<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; Ab &nbsp; &nbsp; &nbsp; &nbsp; Db<br />
 menuju kehidupanku di SMA<br />
-                                     Gb                 Bbm<br />
+ &nbsp; &nbsp; Gb                 Bbm<br />
 menginjak masa muda yang ceria<br />
                    Ab                                    Gb<br />
 siap beranjak dan menentukan arah<br />
